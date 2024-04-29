@@ -1,152 +1,152 @@
 [
   {
-    "Código": 1,
+    "Codigo": 1,
     "Nombres": "Juan",
     "Apellidos": "Pérez",
-    "Cumpleaños": "1990-05-15",
-    "País": "México",
-    "Teléfono": "+52 1234567890",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "1 año"
+    "Cumpleanos": "1990-05-15",
+    "Pais": "México",
+    "Telefono": "+52 1234567890",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "1 año"
   },
   {
-    "Código": 2,
+    "Codigo": 2,
     "Nombres": "María",
     "Apellidos": "Gómez",
-    "Cumpleaños": "1985-10-20",
-    "País": "España",
-    "Teléfono": "+34 987654321",
-    "Método de pago": "PayPal",
-    "Tiempo de Suscripción": "6 meses"
+    "Cumpleanos": "1985-10-20",
+    "Pais": "España",
+    "Telefono": "+34 987654321",
+    "Metododepago": "PayPal",
+    "TiempodeSuscripcion": "6 meses"
   },
   {
-    "Código": 3,
+    "Codigo": 3,
     "Nombres": "Carlos",
     "Apellidos": "López",
-    "Cumpleaños": "1988-07-08",
-    "País": "Argentina",
-    "Teléfono": "+54 1122334455",
-    "Método de pago": "Tarjeta de débito",
-    "Tiempo de Suscripción": "3 meses"
+    "Cumpleanos": "1988-07-08",
+    "Pais": "Argentina",
+    "Telefono": "+54 1122334455",
+    "Metododepago": "Tarjeta de débito",
+    "TiempodeSuscripcion": "3 meses"
   },
   {
-    "Código": 4,
+    "Codigo": 4,
     "Nombres": "Ana",
     "Apellidos": "Martínez",
-    "Cumpleaños": "1995-03-25",
-    "País": "Colombia",
-    "Teléfono": "+57 321654987",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "1 mes"
+    "Cumpleanos": "1995-03-25",
+    "Pais": "Colombia",
+    "Telefono": "+57 321654987",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "1 mes"
   },
   {
-    "Código": 5,
+    "Codigo": 5,
     "Nombres": "Pedro",
     "Apellidos": "García",
-    "Cumpleaños": "1983-12-12",
-    "País": "Chile",
-    "Teléfono": "+56 987654321",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "1 año"
+    "Cumpleanos": "1983-12-12",
+    "Pais": "Chile",
+    "Telefono": "+56 987654321",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "1 año"
   },
   {
-    "Código": 6,
+    "Codigo": 6,
     "Nombres": "Laura",
     "Apellidos": "Hernández",
-    "Cumpleaños": "1992-09-30",
-    "País": "Perú",
-    "Teléfono": "+51 998877665",
-    "Método de pago": "Tarjeta de débito",
-    "Tiempo de Suscripción": "6 meses"
+    "Cumpleanos": "1992-09-30",
+    "Pais": "Perú",
+    "Telefono": "+51 998877665",
+    "Metododepago": "Tarjeta de débito",
+    "TiempodeSuscripcion": "6 meses"
   },
   {
-    "Código": 7,
+    "Codigo": 7,
     "Nombres": "Jorge",
     "Apellidos": "Rodríguez",
-    "Cumpleaños": "1980-02-18",
-    "País": "Ecuador",
-    "Teléfono": "+593 987654321",
-    "Método de pago": "PayPal",
-    "Tiempo de Suscripción": "3 meses"
+    "Cumpleanos": "1980-02-18",
+    "Pais": "Ecuador",
+    "Telefono": "+593 987654321",
+    "Metododepago": "PayPal",
+    "TiempodeSuscripcion": "3 meses"
   },
   {
-    "Código": 8,
+    "Codigo": 8,
     "Nombres": "Carmen",
     "Apellidos": "Luna",
-    "Cumpleaños": "1998-06-05",
-    "País": "Bolivia",
-    "Teléfono": "+591 789456123",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "1 mes"
+    "Cumpleanos": "1998-06-05",
+    "Pais": "Bolivia",
+    "Telefono": "+591 789456123",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "1 mes"
   },
   {
-    "Código": 9,
+    "Codigo": 9,
     "Nombres": "Diego",
     "Apellidos": "Silva",
-    "Cumpleaños": "1987-11-28",
-    "País": "Uruguay",
-    "Teléfono": "+598 123456789",
-    "Método de pago": "Tarjeta de débito",
-    "Tiempo de Suscripción": "1 año"
+    "Cumpleanos": "1987-11-28",
+    "Pais": "Uruguay",
+    "Telefono": "+598 123456789",
+    "Metododepago": "Tarjeta de débito",
+    "TiempodeSuscripcion": "1 año"
   },
   {
-    "Código": 10,
+    "Codigo": 10,
     "Nombres": "Sofía",
     "Apellidos": "Moreno",
-    "Cumpleaños": "1993-04-10",
-    "País": "Paraguay",
-    "Teléfono": "+595 987654321",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "6 meses"
+    "Cumpleanos": "1993-04-10",
+    "Pais": "Paraguay",
+    "Telefono": "+595 987654321",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "6 meses"
   },
   {
-    "Código": 11,
+    "Codigo": 11,
     "Nombres": "Fernando",
     "Apellidos": "Díaz",
-    "Cumpleaños": "1986-08-22",
-    "País": "Costa Rica",
-    "Teléfono": "+506 12345678",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "3 meses"
+    "Cumpleanos": "1986-08-22",
+    "Pais": "Costa Rica",
+    "Telefono": "+506 12345678",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "3 meses"
   },
   {
-    "Código": 12,
+    "Codigo": 12,
     "Nombres": "Valeria",
     "Apellidos": "Vargas",
-    "Cumpleaños": "1996-01-05",
-    "País": "Panamá",
-    "Teléfono": "+507 987654321",
-    "Método de pago": "PayPal",
-    "Tiempo de Suscripción": "1 mes"
+    "Cumpleanos": "1996-01-05",
+    "Pais": "Panamá",
+    "Telefono": "+507 987654321",
+    "Metododepago": "PayPal",
+    "TiempodeSuscripcion": "1 mes"
   },
   {
-    "Código": 13,
+    "Codigo": 13,
     "Nombres": "Ricardo",
     "Apellidos": "Gutiérrez",
-    "Cumpleaños": "1984-06-17",
-    "País": "Guatemala",
-    "Teléfono": "+502 12345678",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "1 año"
+    "Cumpleanos": "1984-06-17",
+    "Pais": "Guatemala",
+    "Telefono": "+502 12345678",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "1 año"
   },
   {
-    "Código": 14,
+    "Codigo": 14,
     "Nombres": "Isabel",
     "Apellidos": "Romero",
-    "Cumpleaños": "1991-03-08",
-    "País": "Honduras",
-    "Teléfono": "+504 987654321",
-    "Método de pago": "Tarjeta de débito",
-    "Tiempo de Suscripción": "6 meses"
+    "Cumpleanos": "1991-03-08",
+    "Pais": "Honduras",
+    "Telefono": "+504 987654321",
+    "Metododepago": "Tarjeta de débito",
+    "TiempodeSuscripcion": "6 meses"
   },
   {
-    "Código": 15,
+    "Codigo": 15,
     "Nombres": "Daniel",
     "Apellidos": "Mendoza",
-    "Cumpleaños": "1989-09-12",
-    "País": "El Salvador",
-    "Teléfono": "+503 12345678",
-    "Método de pago": "Tarjeta de crédito",
-    "Tiempo de Suscripción": "3 meses"
+    "Cumpleanos": "1989-09-12",
+    "Pais": "El Salvador",
+    "Telefono": "+503 12345678",
+    "Metododepago": "Tarjeta de crédito",
+    "TiempodeSuscripcion": "3 meses"
   }
 ]
