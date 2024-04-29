@@ -1,0 +1,143 @@
+  "empleados": [
+      {
+        "codigo": "EMP001",
+        "nombre": "Juan",
+        "apellidos": "Pérez Gómez",
+        "cargo": "Director de Contenido",
+        "telefono": "123-456-7890"
+      },
+      {
+        "codigo": "EMP002",
+        "nombre": "María",
+        "apellidos": "García López",
+        "cargo": "Gerente de Marketing",
+        "telefono": "987-654-3210"
+      },
+      {
+        "codigo": "EMP003",
+        "nombre": "Carlos",
+        "apellidos": "Martínez Rodríguez",
+        "cargo": "Productor Ejecutivo",
+        "telefono": "456-789-0123"
+      },
+      {
+        "codigo": "EMP004",
+        "nombre": "Ana",
+        "apellidos": "Hernández Pérez",
+        "cargo": "Editora de Video",
+        "telefono": "789-012-3456"
+      },
+      {
+        "codigo": "EMP005",
+        "nombre": "Pedro",
+        "apellidos": "López García",
+        "cargo": "Diseñador Gráfico",
+        "telefono": "234-567-8901"
+      },
+      {
+        "codigo": "EMP006",
+        "nombre": "Sofía",
+        "apellidos": "Gómez Martínez",
+        "cargo": "Asistente de Producción",
+        "telefono": "678-901-2345"
+      },
+      {
+        "codigo": "EMP007",
+        "nombre": "Javier",
+        "apellidos": "Rodríguez Pérez",
+        "cargo": "Guionista",
+        "telefono": "345-678-9012"
+      },
+      {
+        "codigo": "EMP008",
+        "nombre": "Laura",
+        "apellidos": "Pérez García",
+        "cargo": "Analista de Datos",
+        "telefono": "901-234-5678"
+      },
+      {
+        "codigo": "EMP009",
+        "nombre": "Miguel",
+        "apellidos": "Martínez López",
+        "cargo": "Director de Fotografía",
+        "telefono": "567-890-1234"
+      },
+      {
+        "codigo": "EMP010",
+        "nombre": "Carmen",
+        "apellidos": "López Martínez",
+        "cargo": "Relaciones Públicas",
+        "telefono": "012-345-6789"
+      },
+      {
+        "codigo": "EMP011",
+        "nombre": "Diego",
+        "apellidos": "García Rodríguez",
+        "cargo": "Redactor Creativo",
+        "telefono": "789-012-3456"
+      },
+      {
+        "codigo": "EMP012",
+        "nombre": "Elena",
+        "apellidos": "Rodríguez García",
+        "cargo": "Community Manager",
+        "telefono": "234-567-8901"
+      },
+      {
+        "codigo": "EMP013",
+        "nombre": "Raúl",
+        "apellidos": "Pérez Martínez",
+        "cargo": "Coordinador de Producción",
+        "telefono": "678-901-2345"
+      },
+      {
+        "codigo": "EMP014",
+        "nombre": "Isabel",
+        "apellidos": "Martínez Pérez",
+        "cargo": "Editora de Texto",
+        "telefono": "345-678-9012"
+      },
+      {
+        "codigo": "EMP015",
+        "nombre": "Alberto",
+        "apellidos": "Gómez López",
+        "cargo": "Director de Arte",
+        "telefono": "901-234-5678"
+      },
+      {
+        "codigo": "EMP016",
+        "nombre": "Natalia",
+        "apellidos": "López Gómez",
+        "cargo": "Asistente de Marketing",
+        "telefono": "567-890-1234"
+      },
+      {
+        "codigo": "EMP017",
+        "nombre": "Francisco",
+        "apellidos": "García Martínez",
+        "cargo": "Productor Musical",
+        "telefono": "012-345-6789"
+      },
+      {
+        "codigo": "EMP018",
+        "nombre": "Luisa",
+        "apellidos": "Rodríguez Gómez",
+        "cargo": "Editora de Imagen",
+        "telefono": "789-012-3456"
+      },
+      {
+        "codigo": "EMP019",
+        "nombre": "Hugo",
+        "apellidos": "Pérez López",
+        "cargo": "Desarrollador Web",
+        "telefono": "234-567-8901"
+      },
+      {
+        "codigo": "EMP020",
+        "nombre": "Adriana",
+        "apellidos": "Gómez Pérez",
+        "cargo": "Analista de Contenido",
+        "telefono": "678-901-2345"
+      }
+    ]
+  }
