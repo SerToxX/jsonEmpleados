@@ -1,4 +1,4 @@
-  "empleados": [
+[
       {
         "codigo": "EMP001",
         "nombre": "Juan",
@@ -140,4 +140,4 @@
         "telefono": "678-901-2345"
       }
     ]
-  }
+
